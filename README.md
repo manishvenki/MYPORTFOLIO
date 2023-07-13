@@ -1,1 +1,1 @@
-[My-portfoli0](https://manishvenki.github.io/MYPORTFOLIO/#projects)
+[My-portfolio](https://manishvenki.github.io/MYPORTFOLIO/)
